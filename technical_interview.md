@@ -16,3 +16,13 @@
 * 2 Pramp Interviews per week
 * Other: Codility, InterviewCake
 * Javascript30.com
+
+## Architecture/System Design
+* Read 1 High Scalability article per day
+* Study week 13+ system design and web readings 
+* Be ready for often-asked questions (Ned's lecture)
+* Practice thinking about systems used in everyday websites
+
+## After the Interview
+
+* Always do a debrief
