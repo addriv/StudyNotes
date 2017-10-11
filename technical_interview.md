@@ -25,14 +25,15 @@
 
 ## After the Interview
 
-* Always do a debrief
+* Always do a debrief!
 
 ## Overall schedule
 
 1. Browse for job listings in the morning
 2. Finish some applications in the morning
-3. Javascript 30 after lunch
-4. 2 cracking the coding interview
-5. Polish projects
-6. Finish more applications
-7. Read articles
+3. Gym 
+4. Javascript 30 after lunch
+5. 2 cracking the coding interview
+6. Polish projects
+7. Finish more applications
+8. Read articles
